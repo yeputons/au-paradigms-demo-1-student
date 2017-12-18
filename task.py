@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 def add(a, b):
-    # TODO: реализуйте сложение двух чисел
-    pass
+    return a + b
 
 def test_add():
     assert add(2, 2) == 4
