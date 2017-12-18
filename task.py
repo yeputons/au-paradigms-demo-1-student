@@ -12,4 +12,5 @@ def main():
     test_add()
 
 if __name__ == "__main__":
+    # Запускаем main()
     main()
